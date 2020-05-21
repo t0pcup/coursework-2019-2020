@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "kursach_v1.1\Generator.csproj", "{E4785D5F-E74E-4650-9988-8D5F7655DD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaLib", "SchemaLib\SchemaLib.csproj", "{916A3088-1EE6-4DEF-A441-DE5B7F71F579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4785D5F-E74E-4650-9988-8D5F7655DD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4785D5F-E74E-4650-9988-8D5F7655DD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4785D5F-E74E-4650-9988-8D5F7655DD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4785D5F-E74E-4650-9988-8D5F7655DD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916A3088-1EE6-4DEF-A441-DE5B7F71F579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916A3088-1EE6-4DEF-A441-DE5B7F71F579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916A3088-1EE6-4DEF-A441-DE5B7F71F579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916A3088-1EE6-4DEF-A441-DE5B7F71F579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED2E916-06EC-49B3-A48D-A3F87F8017AF}
+	EndGlobalSection
+EndGlobal

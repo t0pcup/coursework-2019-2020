@@ -1,0 +1,21 @@
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csprojAssemblyReference.cache
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.dll
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.pdb
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\bin\Debug\System.Drawing.Common.dll
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csproj.CopyComplete
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.dll
+C:\хайер скул оф пейн\Прога\шарпы\2semestr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csprojAssemblyReference.cache
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csproj.CopyComplete
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\bin\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csprojAssemblyReference.cache
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csproj.CopyComplete
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Release\SchemaLib.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Release\SchemaLib.pdb
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\bin\Release\System.Drawing.Common.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Release\SchemaLib.csprojAssemblyReference.cache
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Release\SchemaLib.csproj.CopyComplete
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Release\SchemaLib.dll
+C:\Users\Ksenia\Documents\coursework_1st\kursach_v1.1\SchemaLib\obj\Release\SchemaLib.pdb
