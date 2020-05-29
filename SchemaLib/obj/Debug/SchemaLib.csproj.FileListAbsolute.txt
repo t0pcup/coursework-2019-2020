@@ -19,3 +19,11 @@ C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csprojAs
 C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.csproj.CopyComplete
 C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.dll
 C:\Users\Ksenia\Documents\cr\kursach_v1.1\SchemaLib\obj\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\bin\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\bin\Debug\SchemaLib.pdb
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\obj\Debug\SchemaLib.csprojAssemblyReference.cache
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\obj\Debug\SchemaLib.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\obj\Debug\SchemaLib.csproj.CopyComplete
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\obj\Debug\SchemaLib.dll
+C:\Users\Ksenia\Documents\GitHub\kursach-2019-2020\SchemaLib\obj\Debug\SchemaLib.pdb
